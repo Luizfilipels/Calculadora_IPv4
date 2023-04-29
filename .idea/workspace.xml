@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4afc4c29-708c-40eb-b0ee-8ecd593db406" name="Changes" comment="Removendo redundancia">
+    <list default="true" id="4afc4c29-708c-40eb-b0ee-8ecd593db406" name="Changes" comment="mudando nome do metodo helper">
+      <change beforePath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/conversor/Conversor_Ipv4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/conversor/Conversor_Ipv4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +57,36 @@
       <option name="project" value="LOCAL" />
       <updated>1682740062473</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="a">
+      <created>1682740166588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682740166588</updated>
+    </task>
+    <task id="LOCAL-00003" summary="b">
+      <created>1682740190227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682740190227</updated>
+    </task>
+    <task id="LOCAL-00004" summary="mudando nome do metodo helper">
+      <created>1682740447107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682740447107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Removendo redundancia" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removendo redundancia" />
+    <MESSAGE value="a" />
+    <MESSAGE value="b" />
+    <MESSAGE value="mudando nome do metodo helper" />
+    <option name="LAST_COMMIT_MESSAGE" value="mudando nome do metodo helper" />
   </component>
 </project>

@@ -15,4 +15,17 @@ public class Conversor_Ipv4 {
         return OctetosBinarios.toString();
     }
 
+    public static String binario_ipv4(String binario) {
+        String[] octetos = binario.split("\\.");
+        StringBuilder ipv4 = new StringBuilder();
+        for (String octeto : octetos) {
+            int decimal = Integer.parseInt(octeto, 2);
+            ipv4.append(decimal).append(".");
+        }
+        // Remove o ponto final
+        ipv4.deleteCharAt(ipv4.length() - 1);
+
+        return ipv4.toString();
+    }
+
 }
