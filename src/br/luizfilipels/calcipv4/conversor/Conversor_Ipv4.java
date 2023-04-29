@@ -2,7 +2,7 @@ package br.luizfilipels.calcipv4.conversor;
 
 public class Conversor_Ipv4 {
 
-    public static String converter_ip(String ipv4) {
+    public static String ipv4_binario(String ipv4) {
         String[] octetos = ipv4.split("\\.");
         StringBuilder OctetosBinarios = new StringBuilder();
         for (String octeto : octetos) {

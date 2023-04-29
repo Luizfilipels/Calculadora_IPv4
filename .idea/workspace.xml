@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4afc4c29-708c-40eb-b0ee-8ecd593db406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculadora_IPv4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/conversor/Conversor_Ipv4.java" afterDir="false" />
+    <list default="true" id="4afc4c29-708c-40eb-b0ee-8ecd593db406" name="Changes" comment="Removendo redundancia">
+      <change beforePath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/conversor/Conversor_Ipv4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/luizfilipels/calcipv4/conversor/Conversor_Ipv4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +49,19 @@
       <option name="presentableId" value="Default" />
       <updated>1682472875775</updated>
     </task>
+    <task id="LOCAL-00001" summary="Removendo redundancia">
+      <created>1682740062473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682740062473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Removendo redundancia" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removendo redundancia" />
   </component>
 </project>

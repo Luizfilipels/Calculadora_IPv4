@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Calculadora IPv4");
         System.out.println("Enviando o ip: 192.168.0.1");
 
-        System.out.println(Conversor_Ipv4.converter_ip(ip));
+        System.out.println(Conversor_Ipv4.ipv4_binario(ip));
     }
 }
 
