@@ -10,7 +10,6 @@ public class Conversor_Ipv4 {
             String binario = Integer.toBinaryString(decimal);
             OctetosBinarios.append(String.format("%8s", binario).replaceAll(" ", "0")).append(".");
         }
-        // Remove the trailing dot
         OctetosBinarios.deleteCharAt(OctetosBinarios.length() - 1);
 
         return OctetosBinarios.toString();
