@@ -7,8 +7,8 @@ public class Conversor_Ipv4 {
         StringBuilder OctetosBinarios = new StringBuilder();
         for (String octeto : octetos) {
             int decimal = Integer.parseInt(octeto);
-            String binary = Integer.toBinaryString(decimal);
-            OctetosBinarios.append(String.format("%8s", binary).replaceAll(" ", "0")).append(".");
+            String binario = Integer.toBinaryString(decimal);
+            OctetosBinarios.append(String.format("%8s", binario).replaceAll(" ", "0")).append(".");
         }
         // Remove the trailing dot
         OctetosBinarios.deleteCharAt(OctetosBinarios.length() - 1);
